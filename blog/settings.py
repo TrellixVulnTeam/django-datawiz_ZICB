@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '9ukp++4@=$(hp(zi@8*ecmewo03j^o9$3*qx_z57117f7nkkaf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'dmytrodjango-datawiz.herokuapp.com' ]
 
