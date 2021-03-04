@@ -25,7 +25,7 @@ SECRET_KEY = '9ukp++4@=$(hp(zi@8*ecmewo03j^o9$3*qx_z57117f7nkkaf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'dmytrodjango-datawiz.herokuapp.com' ]
+ALLOWED_HOSTS = ['127.0.0.1', 'datawiz-dmytro.herokuapp.com' ]
 
 # Application definition
 
